@@ -3,8 +3,9 @@
   "name": "Yozai",
   "description": "Yozai Regular",
   "main": {
-    "NotoSans-Normal": "https://githubusercontent.com",
-    "ggsans-Normal": "https://githubusercontent.com"
+    "NotoSans-Normal": "https://files.catbox.moe/f57cjn.ttf",
+    "ggsans-Normal": "https://files.catbox.moe/f57cjn.ttf",
+    "NotoSans-Bold": "https://files.catbox.moe/f57cjn.ttf",
+    "ggsans-Bold": "https://files.catbox.moe/f57cjn.ttf"
   }
 }
-
