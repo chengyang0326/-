@@ -3,9 +3,13 @@
   "name": "Yozai",
   "description": "Yozai Regular",
   "main": {
-    "NotoSans-Normal": "https://files.catbox.moe/f57cjn.ttf",
-    "ggsans-Normal": "https://files.catbox.moe/f57cjn.ttf",
-    "NotoSans-Bold": "https://files.catbox.moe/f57cjn.ttf",
-    "ggsans-Bold": "https://files.catbox.moe/f57cjn.ttf"
+    "NotoSans-Normal": "https://catbox.moe",
+    "NotoSans-Medium": "https://catbox.moe",
+    "NotoSans-Semibold": "https://catbox.moe",
+    "NotoSans-Bold": "https://catbox.moe",
+    "ggsans-Normal": "https://catbox.moe",
+    "ggsans-Medium": "https://catbox.moe",
+    "ggsans-Semibold": "https://catbox.moe",
+    "ggsans-Bold": "https://catbox.moe"
   }
 }
