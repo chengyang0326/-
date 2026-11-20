@@ -1,18 +1,26 @@
 {
   "spec": 1,
-  "name": "Yozai 悠哉字体",
+  "name": "Yozai",
   "description": "Yozai Regular",
   "main": {
-    "ABCGintoNord-ExtraBold": "https://githubusercontent.com",
-    "ggsans-Bold": "https://githubusercontent.com",
-    "ggsans-BoldItalic": "https://githubusercontent.com",
-    "ggsans-ExtraBold": "https://githubusercontent.com",
-    "ggsans-ExtraBoldItalic": "https://githubusercontent.com",
-    "ggsans-Medium": "https://githubusercontent.com",
-    "ggsans-MediumItalic": "https://githubusercontent.com",
-    "ggsans-Normal": "https://githubusercontent.com",
-    "ggsans-NormalItalic": "https://githubusercontent.com",
-    "ggsans-Semibold": "https://githubusercontent.com",
-    "ggsans-SemiboldItalic": "https://githubusercontent.com"
+    "ABCGintoNord-ExtraBold": "https://jsdelivr.net",
+    "ggsans-Bold": "https://jsdelivr.net",
+    "ggsans-BoldItalic": "https://jsdelivr.net",
+    "ggsans-ExtraBold": "https://jsdelivr.net",
+    "ggsans-ExtraBoldItalic": "https://jsdelivr.net",
+    "ggsans-Medium": "https://jsdelivr.net",
+    "ggsans-MediumItalic": "https://jsdelivr.net",
+    "ggsans-Normal": "https://jsdelivr.net",
+    "ggsans-NormalItalic": "https://jsdelivr.net",
+    "ggsans-Semibold": "https://jsdelivr.net",
+    "ggsans-SemiboldItalic": "https://jsdelivr.net",
+    "NotoSans-Bold": "https://jsdelivr.net",
+    "NotoSans-BoldItalic": "https://jsdelivr.net",
+    "NotoSans-ExtraBold": "https://jsdelivr.net",
+    "NotoSans-Medium": "https://jsdelivr.net",
+    "NotoSans-Normal": "https://jsdelivr.net",
+    "NotoSans-NormalItalic": "https://jsdelivr.net",
+    "NotoSans-Semibold": "https://jsdelivr.net",
+    "SourceCodePro-Semibold": "https://jsdelivr.net"
   }
 }
