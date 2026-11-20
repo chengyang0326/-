@@ -1,8 +1,12 @@
 {
-  "spec": 1,
   "name": "Yozai",
-  "description": "Yozai Regular",
-  "main": {
+  "description": "Yozai Regular Font",
+  "authors": [
+    {
+      "name": "chengyang0326"
+    }
+  ],
+  "fonts": {
     "NotoSans-Normal": "https://catbox.moe",
     "NotoSans-Medium": "https://catbox.moe",
     "NotoSans-Semibold": "https://catbox.moe",
